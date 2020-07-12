@@ -4,5 +4,4 @@ gunicorn==20.0.4
 streamlit==0.62.1
 scipy==1.3.1
 seaborn==0.9.0
-plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1590724681830/work
 matplotlib==3.1.3
